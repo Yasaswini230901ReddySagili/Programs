@@ -55,14 +55,7 @@ If you have a Python development project of any complexity, being able to perfor
 
 REFERENCE TAKEN FROM : https://www.activestate.com/blog/top-10-must-have-python-packages/
 
-# **PYTHON PACKAGES EXAMPLE**
 
-
-![Packages](pythonpackages.jpg)
-
-
-
-Here I am importing math package to do math functions as well as numPy package to use command on arrays.
 
 
  
